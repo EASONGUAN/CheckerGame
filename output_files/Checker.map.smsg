@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at checker.v(223): always construct contains both blocking and non-blocking assignments File: //SRVD/Homes$/zhouliwe/Desktop/Project - Copy/checker.v Line: 223
+Info (10281): Verilog HDL Declaration information at checker.v(209): object "DIRECTION" differs only in case from object "direction" in the same scope File: //SRVD/Homes$/zhouliwe/Desktop/Project - Copy/checker.v Line: 209
+Info (10281): Verilog HDL Declaration information at checker.v(208): object "PLAYER" differs only in case from object "player" in the same scope File: //SRVD/Homes$/zhouliwe/Desktop/Project - Copy/checker.v Line: 208
